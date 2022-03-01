@@ -1,0 +1,28 @@
+.footer {
+  height: 7vh;
+  box-shadow: 0px -5px 5px -5px grey;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  /* background-color: pink; */
+
+}
+.footer .terms-conditions {
+  margin-right: 2vw;
+}
+.footer .privacy-policy {
+  margin-right: 2vw;
+}
+.footer .contact-us {
+  margin-right: 2vw;
+}
+.footer .about-us {
+  margin-right: 2vw;
+}
+.footer .accessibilty {
+  margin-right: 2vw;
+}
+.footer .copyright {
+  /* margin-right: 2vw; */
+
+}

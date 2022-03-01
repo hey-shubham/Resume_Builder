@@ -1,0 +1,39 @@
+
+.subhead{
+    font-size: 20px;
+    font-weight: 600;
+}
+.subhead span{
+    position: relative;
+    bottom: 0.5vh;
+}
+.head{
+    font-size: 30px;
+    margin-top: 1vh;
+    font-weight: 700;
+}
+.num{
+    font-size: 20px;
+    height: 2rem;
+    width: 2rem;
+    background-color: goldenrod;
+    border-radius: 8px;
+    color: white;
+    margin-right: 1vw;
+}
+.point{
+    margin-top: 2vh;
+}
+.point-txt{
+    width: 90%;
+}
+.tnc{
+    font-size: 12px;
+}
+.front{
+    height: 84vh;
+    width: 100vw;
+    background-image: url("https://res.allmacwallpaper.com/pic/Thumbnails/19916_728.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}

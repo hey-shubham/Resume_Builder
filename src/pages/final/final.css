@@ -1,0 +1,109 @@
+.final {
+  height: 83vh;
+}
+.final .side {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 25vw;
+  position: absolute;
+  right: 5vw;
+  top: 9vh;
+  box-shadow: 0px 0px 5px 0px grey;
+}
+.final .heading {
+  margin-bottom: 4vh;
+}
+.final .heading .head {
+  margin-bottom: 1vh;
+}
+.final .export div {
+  margin-top: 2vh;
+  background-color: goldenrod;
+  border-radius: 4px;
+  height: 5vh;
+  width: 20vw;
+  color: white;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.final .export div:hover{
+  background-color: peru;
+  cursor: pointer;
+}
+.final .format {
+  margin-top: 4vh;
+  width: 20vw;
+}
+.final .format p {
+  margin-top: 1vh;
+}
+.final .format .layout {
+  width: 21vw;
+}
+.final .format .layout div {
+  border-radius: 4px;
+  height: 4vh;
+  width: 7vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0px 0px 5px 0px grey;
+  margin-right: 1vw;
+}
+.final .font {
+    margin-top: 1vh;
+    width: 21vw;
+}
+.final .font .style{
+    width: 10vw;
+}
+.final .font .size{
+    width: 10vw;
+}
+.final .font p{
+    margin-bottom: 2vh;
+}
+.final .font #style-opt{
+    height: 4vh;
+    border-radius: 4px;
+    width: 9vw;
+}
+.final .font #size-opt{
+    height: 4vh;
+    border-radius: 4px;
+    width: 9vw;
+}
+.final .colors{
+    width: 20vw;
+    margin-top: 1vh;
+}
+.final .colors .rgb div{
+    height: 2.5rem;
+    /* background-color: goldenrod; */
+    width: 2.5rem;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+.final .colors .rgb .color1{
+    background-color: olive;
+}
+.final .colors .rgb .color2{
+    background-color: peru;
+}
+.final .colors .rgb .color3{
+    background-color: sienna;
+}
+.final .colors .rgb .color4{
+    background-color: gold;
+}
+.final .colors .rgb .color5{
+    background-color: khaki;
+}
+.final .colors .rgb .color6{
+    background-color: tan
+}
+

@@ -1,0 +1,37 @@
+.header{
+    height: 8vh;
+    /* background-color: green; */
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    box-shadow: 0px 5px 5px -5px grey;
+}
+.header img{
+    margin-top: 3vh;
+    height: 15rem;
+    width: 15rem;
+}
+.header .contact-info{
+   margin-left: 2vw; 
+}
+.header .work-experience{
+    margin-left: 2vw;
+}
+.header .education{
+    margin-left: 2vw;
+}
+.header .skills{
+    margin-left: 2vw;
+}
+.header .summary{
+    margin-left: 2vw;
+}
+.header .finalize{
+    margin-left: 2vw;
+}
+.header .contact-us{
+    margin-left: 2vw;
+}
+.header .my-about{
+    margin-left: 2vw;
+}
